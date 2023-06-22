@@ -3,7 +3,7 @@ All projects and coursework using python to solve real business problems such as
 
 ## Customer Segmentation 
 
-Perform a [mall customer segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) using unsupervised machine learning algorithm, K-means Clsutering. The `PyCaret` library is used to create the model, evaluate and plot relevant visualizations.
+Perform a [mall customer segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) using unsupervised machine learning algorithm, K-means Clustering. The `PyCaret` library is used to create the model, evaluate and plot relevant visualizations.
 * [Customer Segmentation Coursework](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Customer_Segmentation)
 
 ## Recommendation System
