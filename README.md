@@ -7,7 +7,7 @@ Perform a [mall customer segmentation](https://www.kaggle.com/datasets/vjchoudha
 * [Customer Segmentation Coursework](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Customer_Segmentation)
 
 ## Recommendation System
-Create cigarette recommendation system to smokers based on [Cigarette Rating by Smokers dataset](https://www.kaggle.com/datasets/mikhailverghese/cigarette-reviews-by-smokers), including content-based filtering and collaborative filtering using matrix factorization and NMF. 
+Create cigarette recommendation system to smokers based on [Cigarette Rating by Smokers dataset](https://www.kaggle.com/datasets/mikhailverghese/cigarette-reviews-by-smokers), including content-based filtering and collaborative filtering using matrix factorization and NMF technique. 
 * [Recommendation System Coursework](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Recommendation_System)
 
 ## Churn Prediction
