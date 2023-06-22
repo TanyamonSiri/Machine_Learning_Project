@@ -4,11 +4,11 @@ All projects and coursework using python to solve real business problems such as
 ## Customer Segmentation 
 
 Perform a [mall customer segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) using unsupervised machine learning algorithm, K-means Clustering. The `PyCaret` library is used to create the model, evaluate and plot relevant visualizations.
-* [Customer Segmentation Coursework](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Customer_Segmentation)
+* [Segmentation of Mall Customer 🛒](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Customer_Segmentation)
 
 ## Recommendation System
 Create cigarette recommendation system to smokers based on [Cigarette Rating by Smokers dataset](https://www.kaggle.com/datasets/mikhailverghese/cigarette-reviews-by-smokers), including content-based filtering and collaborative filtering using matrix factorization and NMF technique. 
-* [Recommendation System Coursework](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Recommendation_System)
+* [Cigarette Recommendation System 🚬](https://github.com/TanyamonSiri/Machine_Learning_Project/tree/main/Recommendation_System)
 
 ## Churn Prediction
 
