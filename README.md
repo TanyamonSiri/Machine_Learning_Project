@@ -19,6 +19,8 @@ Mall Customer Segmentation Data
 ![image](https://github.com/TanyamonSiri/Machine_Learning_Project/assets/125655019/d2978ade-bc9b-440a-8675-a12e6aa49b55)
 
 ### Certificate of Attendance:
+Earned under the condition of participating more than 80% of the class & activities, and scoring at least 80% of the final examination 
+
 <img width="524" alt="image" src="https://github.com/TanyamonSiri/Machine_Learning_Project/assets/125655019/d544f2c2-4447-4af2-b43d-c06b22a7003d">
 
 
