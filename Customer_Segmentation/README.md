@@ -21,3 +21,5 @@ K-means algorithms generated the following 5 clusters
 * Cluster 4: Clients with **low** annual income and **high** spending score
 
 Note that in terms of age, there're no distinct group except for Cluster 4 which contains the youngest group of clients refer to theirs average age
+
+View my notebook [here](https://github.com/TanyamonSiri/Machine_Learning_Project/blob/main/Customer_Segmentation/Customer_Segmentation.ipynb).
